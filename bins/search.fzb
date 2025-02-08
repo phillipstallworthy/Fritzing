@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="1.0.4.2024-10-07.1.0.4rc1-4-ga8c6ef7c" icon="Search.png" search="capacitor">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="SparkFun-Passives-CAP-PTH1" modelIndex="9152" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap-pth1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="xl4015_6b5078816154b8728cafe03e7fce04a5_1" modelIndex="9153" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/xl4015_6b5078816154b8728cafe03e7fce04a5_1.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="mic4576_to220_7ca7aead36ea07c96091208b0122f0cc_1" modelIndex="9154" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/mic4576_to220_7ca7aead36ea07c96091208b0122f0cc_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="trimmer_2_2VariableCapacitorModuleID" modelIndex="9155" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/trimmer_2_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="mic4575_to220_606f336f4be80536825ec230d0d79b65_1" modelIndex="9156" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/mic4575_to220_606f336f4be80536825ec230d0d79b65_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TMP102_Breakout-v11" modelIndex="9157" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/TMP102_Breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="mic4574_5ee57349869fd1a1da296bd15e8e1743_1" modelIndex="9158" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/mic4574_5ee57349869fd1a1da296bd15e8e1743_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_ADJ-SMD" modelIndex="9159" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap_adj-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LargeElectrolyticCapacitorModuleID" modelIndex="9160" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/capacitor_electrolytic_large.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="trimmer_3_2_v_holeVariableCapacitorModuleID" modelIndex="9161" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/trimmer_3_2_v_hole.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ADXL345-BreakoutBoard-v13" modelIndex="9162" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/ADXL345-BreakoutBoard-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP-0402-CAP" modelIndex="9163" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap-0402-cap.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TB6612FNG Breakout v11" modelIndex="9164" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/Motor Driver 1A Dual TB6612FNG v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-PTH3" modelIndex="9165" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap_pol-pth3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Humidity_and_Temperature_Sensor_RHT03_6" modelIndex="9166" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/Humidity_and_Temperature_Sensor_RHT03.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="lm2596_to263_2cc7b20badfc99329be65b67ba7adc35_1" modelIndex="9167" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/lm2596_to263_2cc7b20badfc99329be65b67ba7adc35_1.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="trimmer_3_4_pVariableCapacitorModuleID" modelIndex="9168" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/trimmer_3_4_p.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-PTH1" modelIndex="9169" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap_pol-pth1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP-0805" modelIndex="9170" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap-0805.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="5mmPPCapacitor_CapacitorModuleID" modelIndex="9171" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/capacitor_pp_5mm.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ISD1932 Breakout-v11" modelIndex="9172" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/ISD1932 Breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="100milTantalumCapacitorModuleID" modelIndex="9173" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/capacitor_tantalum_100mil.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-H13" modelIndex="9174" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap_pol-h13.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-F80" modelIndex="9175" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap_pol-f80.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MPR121-Breakout-v13" modelIndex="9176" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/MPR121-Breakout-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-6032" modelIndex="9177" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap_pol-6032.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="lm2596_to220_f44cb37d8d6021cdacac7094cee01f17_1" modelIndex="9178" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/lm2596_to220_f44cb37d8d6021cdacac7094cee01f17_1.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP-PTH3" modelIndex="9179" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap-pth3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="37.5mmPPCapacitor_CapacitorModuleID" modelIndex="9180" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/capacitor_pp_37.5mm.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="22.5mmPPCapacitor_CapacitorModuleID" modelIndex="9181" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/capacitor_pp_22.5mm.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="mic4575_to263_e9f75c5adeaad0de490ebb2c6da6e995_1" modelIndex="9182" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/mic4575_to263_e9f75c5adeaad0de490ebb2c6da6e995_1.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ProtoShield-v25" modelIndex="9183" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/ProtoShield-v25.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SmallElectrolyticCapacitorModuleID" modelIndex="9184" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/capacitor_electrolytic_small.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="200milTantalumCapacitorModuleID" modelIndex="9185" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/capacitor_tantalum_200mil.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-PTH2" modelIndex="9186" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap_pol-pth2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP-PTH" modelIndex="9187" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-3528" modelIndex="9188" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap_pol-3528.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="6c575724-27cc-446c-a1f0-febb6321a5c9CapacitorModuleID" modelIndex="9189" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/SMD_tantalum_capacitor_B_3528.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="37asdf3c843a2127a0e499f8a0b3ef6aCrystalModuleID" modelIndex="9190" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/resonator-3pin.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ad5330 breakout-v11" modelIndex="9191" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/ad5330 breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="xl4005_dd04c65a74197e075712ad6517003651_1" modelIndex="9192" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/xl4005_dd04c65a74197e075712ad6517003651_1.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="100milCeramicCapacitorModuleID" modelIndex="9193" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/capacitor_ceramic_100mil.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="xl6009_8044d35aa5770759ef09c66c0795aa37_5" modelIndex="9194" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/xl6009_8044d35aa5770759ef09c66c0795aa37_5.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="capacitor_elko_goldcap_4.0F_92eef0d1d2f548b9db9918a1769107d3_2" modelIndex="9195" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/capacitor_elko_goldcap_4.0F_92eef0d1d2f548b9db9918a1769107d3_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="mic4576_to263_98ea17460fdaa28f8d6fb0856792dbff_1" modelIndex="9196" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/mic4576_to263_98ea17460fdaa28f8d6fb0856792dbff_1.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="aoz3018pi_4b4d7335497bbf379c232d88829b4eaf_1" modelIndex="9197" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/aoz3018pi_4b4d7335497bbf379c232d88829b4eaf_1.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-7343" modelIndex="9198" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap_pol-7343.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP-0603-CAP" modelIndex="9199" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap-0603-cap.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="trimmer_2_1VariableCapacitorModuleID" modelIndex="9200" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/trimmer_2_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="75f728f5-a5d6-435d-8790-d57fd4f5cafeCapacitorModuleID" modelIndex="9201" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/SMD_multilayer-capacitor_0805.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="f80c6938-71e1-44a1-867e-442332a78ca8CapacitorModuleID" modelIndex="9202" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/SMD_elko_0605.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP-KIT" modelIndex="9203" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap-kit.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="37asdf3c843a342134a0e499f8a0b3ef6aCrystalModuleID" modelIndex="9204" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/resonator-2pin.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MediumElectrolyticCapacitorModuleID" modelIndex="9205" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/capacitor_electrolytic_medium.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="trimmer_smd2VariableCapacitorModuleID" modelIndex="9206" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/trimmer_smd2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-SMD" modelIndex="9207" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap_pol-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="fb258071-7a2a-49cf-ba81-3dd52526a3aaCapacitorModuleID" modelIndex="9208" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/SMD_elko_1010.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-E" modelIndex="9209" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap_pol-e.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-EN_J2" modelIndex="9210" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap_pol-en_j2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-C" modelIndex="9211" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap_pol-c.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-G" modelIndex="9212" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap_pol-g.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="788a4e21-da42-4423-b1af-fcd61c29b057CapacitorModuleID" modelIndex="9213" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/SMD_tantalum_capacitor_D_7343.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-PTH4" modelIndex="9214" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap_pol-pth4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP-PTH2" modelIndex="9215" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap-pth2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-D" modelIndex="9216" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap_pol-d.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP-1206" modelIndex="9217" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap-1206.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Op Amp Breakout-v16" modelIndex="9218" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/Op Amp Breakout-v16.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP-_" modelIndex="9219" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap-_.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="15mmPPCapacitor_CapacitorModuleID" modelIndex="9220" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/capacitor_pp_15mm.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="e593865a-8a0f-4519-9b63-41a9c67e3b51CapacitorModuleID" modelIndex="9221" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/SMD_elko_0807.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="trimmer_3_1_vVariableCapacitorModuleID" modelIndex="9222" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/trimmer_3_1_v.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="trimmer_smd1VariableCapacitorModuleID" modelIndex="9223" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/trimmer_smd1.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="aoz3013pi_0671c5779d4831e9bb583672ac1d7afe_1" modelIndex="9224" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/aoz3013pi_0671c5779d4831e9bb583672ac1d7afe_1.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="a9b4194c-7731-4413-b04e-5c544638ef28CapacitorModuleID" modelIndex="9225" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/SMD_multilayer-capacitor_0603.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP-SMD" modelIndex="9226" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-3528-KIT" modelIndex="9227" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap_pol-3528-kit.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP-1210" modelIndex="9228" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap-1210.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="27.5mmPPCapacitor_CapacitorModuleID" modelIndex="9229" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/capacitor_pp_27.5mm.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="1e1cbd15-a784-4e41-a3e7-fd0ce4380a2cCapacitorModuleID" modelIndex="9230" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/SMD_multilayer-capacitor_1206.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="89068509-60af-45bf-a80d-a6a3b79f787fCapacitorModuleID" modelIndex="9231" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/SMD_tantalum_capacitor_C_6032.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-1206-KIT" modelIndex="9232" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap_pol-1206-kit.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7.5mmPPCapacitor_CapacitorModuleID" modelIndex="9233" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/capacitor_pp_7.5mm.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="200milCeramicCapacitorModuleID" modelIndex="9234" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/capacitor_ceramic_200mil.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="fd80c64b-5cb0-4ae6-8254-6db49f6504ebCapacitorModuleID" modelIndex="9235" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/SMD_tantalum_capacitor_A_3216.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="10mmPPCapacitor_CapacitorModuleID" modelIndex="9236" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/capacitor_pp_10mm.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP-ASMD" modelIndex="9237" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap-asmd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="trimmer_2_2_holeVariableCapacitorModuleID" modelIndex="9238" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/trimmer_2_2_hole.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-CAP_POL-1206" modelIndex="9239" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/sparkfun-passives-cap_pol-1206.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="9cb1a483-254b-4e1b-840c-fa7afc0ed5f8CapacitorModuleID" modelIndex="9240" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/SMD_elko_0405.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="trimmer_3_3_pVariableCapacitorModuleID" modelIndex="9241" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/trimmer_3_3_p.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="HMC5883L_Breakout-v11" modelIndex="9242" path="/tmp/.mount_fritzi0PMz25/fritzing-parts/core/HMC5883L_Breakout-v11.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

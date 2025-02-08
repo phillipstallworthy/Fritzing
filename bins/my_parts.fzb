@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="1.0.4.2024-10-07.1.0.4rc1-4-ga8c6ef7c" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="2x 18650 battery_a073d98e2829ed2513701f253b833ca9_1" modelIndex="6917" path="/home/phillip/Documents/Fritzing/parts/user/2x 18650 battery_a073d98e2829ed2513701f253b833ca9_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="1x_18650_battery_holder_7fdbc419dae243128f12dd1168246f23_1" modelIndex="6925" path="/home/phillip/Documents/Fritzing/parts/user/1x_18650_battery_holder_7fdbc419dae243128f12dd1168246f23_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="2x 18650 battery_44d66c0fc8bf94621dd6c8cfbbb2ac68_8" modelIndex="6927" path="/home/phillip/Documents/Fritzing/parts/user/2x 18650 battery_44d66c0fc8bf94621dd6c8cfbbb2ac68_8.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
